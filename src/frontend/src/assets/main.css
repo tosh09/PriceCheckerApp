@@ -1,0 +1,42 @@
+body {
+  background-color: #FAFAFA;
+  color: #333333;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-offwhite {
+  background-color: #FAFAFA !important;
+}
+
+.text-darkgrey {
+  color: #1A1A1A !important;
+}
+
+.text-accent-orange {
+  color: #FF7E67 !important;
+}
+
+.bg-accent-orange {
+  background-color: #FF7E67 !important;
+  color: #FFFFFF !important;
+}
+
+.border-accent-orange {
+  border-color: #FF7E67 !important;
+}
+
+.card-minimal {
+  background-color: #FFFFFF;
+  border: 1px solid #EAEAEA;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+}
+
+.btn-minimal {
+  border-radius: 20px;
+  padding: 10px 24px;
+  font-weight: bold;
+  border: none;
+}
